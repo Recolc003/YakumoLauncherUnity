@@ -1,0 +1,22 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "yakumo_ran_02.moc3",
+		"Textures": [
+			"yakumo_ran_02.1024/texture_00.png"
+		],
+		"DisplayInfo": "yakumo_ran_02.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
